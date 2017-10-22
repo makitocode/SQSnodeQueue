@@ -25,5 +25,8 @@
   "dependencies": {
     "aws-sdk": "^2.138.0",
     "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "hotnode": "0.0.8"
   }
 }
